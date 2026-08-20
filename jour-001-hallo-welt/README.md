@@ -14,12 +14,12 @@ python main.py
 ## Vocabulaire du jour
 
 ### Allemand
-| Mot/Expression | Prononciation | Français
-|---|---|---|
-| Hallo Welt | ha-lo velt | Bonjour le monde ! |
-| Wie heißt du? | vi haist dou | Comment t'appelles-tu ? |
-| Schön | cheun | Beau/belle, ici "content(e)" |
-| dich kennenzulernen | dish kènn-en-tsou-lèrnen | te rencontrer/ te connaître |
+| Mot/Expression | Français
+|---|---|
+| Hallo Welt | Bonjour le monde ! |
+| Wie heißt du? | Comment t'appelles-tu ? |
+| Schön | Beau/belle, ici "content(e)" |
+| dich kennenzulernen | te rencontrer/ te connaître |
 
 Point grammaire : "heißt" vient du verbe "heißen" (s'appeler),
 verbe irrégulier, conjugué ici à la 2e personne du singulier (du heißt) .
