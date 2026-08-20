@@ -19,7 +19,7 @@ python main.py
 | Hallo Welt | Bonjour le monde ! |
 | Wie heißt du? | Comment t'appelles-tu ? |
 | Schön | Beau/belle, ici "content(e)" |
-| dich kennenzulernen | te rencontrer/ te connaître |
+| dich kennenzulernen | te rencontrer/ te connaître  |
 
 Point grammaire : "heißt" vient du verbe "heißen" (s'appeler),
 verbe irrégulier, conjugué ici à la 2e personne du singulier (du heißt) .
