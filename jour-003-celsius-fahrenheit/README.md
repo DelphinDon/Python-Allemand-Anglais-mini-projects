@@ -7,7 +7,7 @@ Demander une temperature en degrés Celsius et la convertir en Fahrenheit,en all
 python main.py
 
 ## Notion Python travaillée  
-- **float()** : Il convertir un text ( chaîne de caractères) en nombre decimal, nécessaire pour faire des calculs.
+- **float()** : C'est un type de donné (data type). Il convertir un text ( chaîne de caractères) en nombre decimal, nécessaire pour faire des calculs.
 - **Operations mathématiques** multiplication(*), division(/), addition(+)
 
 ## Vocabulaire du jour
