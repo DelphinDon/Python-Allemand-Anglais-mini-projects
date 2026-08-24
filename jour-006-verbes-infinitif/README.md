@@ -38,7 +38,7 @@ python main.py
 
 Point grammaire : l'infinitif allemand se termine presque toujours par "-en" (ou "-n").
 
-### Anglais 
+### Anglais
 | Verbe | Traduction |
 |---|---|
 | to be | être |
