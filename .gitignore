@@ -1,4 +1,17 @@
+# Dossier de configuration de VS Code (réglages propres à l'éditeur, pas au projet)
 .vscode/
+
+# Fichiers générés automatiquement par Python quand un script est exécuté
 __pycache__/
 *.pyc
+
+# Fichier système créé automatiquement sur Mac (inutile sur Windows, gardé par sécurité)
 .DS_Store
+
+# Fichier contenant des informations secrètes (clés API, mots de passe)
+# Ne JAMAIS envoyer ce fichier sur GitHub
+.env
+
+# Dossier d'environnement virtuel Python (contient les librairies installées)
+# Trop volumineux et inutile à partager : chacun le recrée avec requirements.txt
+venv/
